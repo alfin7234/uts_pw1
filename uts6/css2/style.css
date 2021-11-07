@@ -1,0 +1,60 @@
+/* Nama (NRP) 
+    * - William Wijaya (2172011) 
+    * - Alfin Liunardi Senjaya (1672034)
+    * - 
+    */
+
+.img1 {
+    background-image: url("../img/src/background2.jpg");
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+    background-size: cover;
+    background-color: blanchedalmond;
+    background-position: center;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.text {
+    position: absolute;
+    color: black;
+}
+.nav {
+    background-color: black;
+    position: relative;
+    height: 50px;
+    text-align: center;
+    filter: opacity(50%);
+}
+
+h1 {
+    text-align: center;
+}
+.padding{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.bar{
+    padding:8px 16px;
+    float:left;
+    width:auto;
+    border:none;
+    display:block;
+    outline:0;
+    white-space:normal;
+    text-align: center;
+    color: white;
+    filter: opacity(100%);
+}
+.bar:hover{
+    filter: opacity(50%);
+    color: cyan;
+}
+.bar2:hover{
+    filter: opacity(75%);
+}
