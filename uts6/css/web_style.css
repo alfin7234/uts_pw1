@@ -1013,3 +1013,57 @@ div{
 .text-grey,.hover-text-grey:hover,.text-gray,.hover-text-gray:hover{color:#757575}
 .text-light-grey,.hover-text-light-grey:hover,.text-light-gray,.hover-text-light-gray:hover{color:#f1f1f1}
 .text-dark-grey,.hover-text-dark-grey:hover,.text-dark-gray,.hover-text-dark-gray:hover{color:#3a3a3a}
+
+/*bagian halaman 2*/
+
+.img1 {
+    background-image: url("../images/img1.jpg");
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+    background-size: cover;
+    background-color: blanchedalmond;
+    background-position: center;
+}
+.text {
+    position: absolute;
+    color: black;
+}
+.nav {
+    background-color: black;
+    position: relative;
+    height: 50px;
+    text-align: center;
+    filter: opacity(50%);
+}
+
+h1 {
+    text-align: center;
+}
+.padding{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.bar{
+    padding:8px 16px;
+    float:left;
+    width:auto;
+    border:none;
+    display:block;
+    outline:0;
+    white-space:normal;
+    text-align: center;
+    color: white;
+    filter: opacity(100%);
+}
+.bar:hover{
+    filter: opacity(50%);
+    color: cyan;
+}
+.bar2:hover{
+    filter: opacity(75%);
+}
