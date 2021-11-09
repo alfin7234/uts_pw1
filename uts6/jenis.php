@@ -34,7 +34,7 @@ Nama (NRP)
 <header class="bgimg display-container grayscale-min" id="home">
 	<img src="images/pizza1.jpg" style="width:100%;" id="myMap">
 	<div class="display-middle center">
-		<span>JENIS - JENIS PASTA</span>
+		<span>JENIS - JENIS PASTA & PIZZA</span>
 		<p><a href="#menu" class="button xlarge black" style="font-size:25px"">Learn More !</a></p>
 	</div>
 </header>
@@ -47,66 +47,111 @@ Nama (NRP)
 				<div class="col s4 tablink padding-large hover-red">Pizza</div>
 			</a>
 			<a href="javascript:void(0)" onclick="openMenu(event, 'Pasta');">
-				<div class="col s4 tablink padding-large hover-red">Salads</div>
+				<div class="col s4 tablink padding-large hover-red">Pasta</div>
 			</a>
 			<a href="javascript:void(0)" onclick="openMenu(event, 'Starter');">
-				<div class="col s4 tablink padding-large hover-red">Starter</div>
+				<div class="col s4 tablink padding-large hover-red">Dessert</div>
 			</a>
 		</div>
 		<div id="Pizza" class="container menu padding-32 white">
-			<h1><b>Margherita</b> <img src="images/margherita.jpg" style="width:25%;"> <span class="right tag dark-grey round">$12.50</span></h1>
-			<p class="text-grey">Fresh tomatoes, fresh mozzarella, fresh basil</p>
+			<h1><b>Margherita</b> <img src="images/margherita.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Fresh tomatoes, fresh mozzarella, fresh basil</p><h2>
 			<hr>
 
-			<h1><b>Formaggio</b> <img src="images/formaggiopizza.jpg" style="width:25%;"> <span class="right tag dark-grey round">$15.50</span></h1>
-			<p class="text-grey">Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)</p>
+			<h1><b>Formaggio</b> <img src="images/formaggiopizza.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)</p></h2>
 			<hr>
 
-			<h1><b>Chicken</b> <img src="images/chickenpizza.jpg" style="width:25%;"> <span class="right tag dark-grey round">$17.00</span></h1>
-			<p class="text-grey">Fresh chicken, mozzarella and bbq sauce</p>
+			<h1><b>Chicken</b> <img src="images/chickenpizza.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Fresh chicken, mozzarella and bbq sauce</p></h2>
 			<hr>
 
-			<h1><b>Pineapple'o'clock</b> <img src="images/pineapplepizza.jpg" style="width:25%"> <span class="right tag dark-grey round">$16.50</span></h1>
-			<p class="text-grey">Chesse, hot pepperoni, tomato sauce, fresh pineapple</p>
+			<h1><b>Pineapple'o'clock</b> <img src="images/pineapplepizza.jpg" style="width:25%"></h1>
+			<h2><p class="text-grey">Chesse, hot pepperoni, tomato sauce, fresh pineapple</p></h2>
 			<hr>
 
-			<h1><b>Meat Town</b> <img src="images/pepperonipizza.jpg" style="width:25%;"> <span class="tag red round">Hot!</span><span class="right tag dark-grey round">$20.00</span></h1>
-			<p class="text-grey">Mozzarella, hot pepporoni, mushroom</p>
+			<h1><b>Meat Town</b> <img src="images/pepperonipizza.jpg" style="width:25%;"></h1> 
+			<h2><p class="text-grey">Mozzarella, hot pepporoni, mushroom</p></h2>
 			<hr>
 
-			<h1><b>Parma</b> <img src="images/parmapizza.jpg" style="width:25%;"> <span class="tag grey round">New</span><span class="right tag dark-grey round">$21.50</span></h1>
-			<p class="text-grey">Parma with ham, salmon and egg</p>
+			<h1><b>Parma</b> <img src="images/parmapizza.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Parma with ham, salmon and egg</p></h2>
 		</div>
 
 		<div id="Pasta" class="container menu padding-32 white">
-			<h1><b>Lasagna</b> <img src="images/lasagna.jpg" style="width:25%;"> <span class="tag grey round">Popular</span> <span class="right tag dark-grey round">$13.50</span></h1>
-			<p class="text-grey">Special sauce, mozzarella, parmesan, ground beef</p>
+			<h1><b>Spaghetti</b> <img src="images/spaghetti.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta dengan helai panjang dan sangat halus</p></h2>
 			<hr>
 
-			<h1><b>Ravioli</b> <img src="images/ravioli.jpg" style="width:25%;"> <span class="right tag dark-grey round">$14.50</span></h1>
-			<p class="text-grey">Ravioli filled with special sauce</p>
+			<h1><b>Linguine</b> <img src="images/linguine.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang mirip dengan spaghetti tetapi lebih lebar dibandingkan dengan potongan spaghetti</p></h2>
 			<hr>
 
-			<h1><b>Spaghetti Classica</b> <img src="images/spaghetti.jpg" style="width:25%;"> <span class="right tag dark-grey round">$11.00</span></h1>
-			<p class="text-grey">Fresh tomatoes, onions, ground beef</p>
+			<h1><b>Fettuccine</b> <img src="images/fettuccine.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang memiliki bentuk rata seperti pita</p></h2>
 			<hr>
 
-			<h1><b>Seafood pasta</b> <img src="images/seafood.jpg" style="width:25%;"> <span class="right tag dark-grey round">$25.50</span></h1>
-			<p class="text-grey">Seafood spaghetti with mussels and shrimp</p>
+			<h1><b>Bucatini</b> <img src="images/bucatini.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang mirip juga dengan spaghetti tetapi memiliki lubang di tengahnya</p></h2>
+			<hr>
+
+			<h1><b>Capellini</b> <img src="images/capellini.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Adonannya mirip dengan spaghetti tetapi memiliki diameter lebih kecil</p></h2>
+			<hr>
+
+			<h1><b>Tortellini</b> <img src="images/tortellini.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta berukuran kecil dan berbentuk seperti cincin</p></h2>
+			<hr>
+
+			<h1><b>Ravioli</b> <img src="images/ravioli.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Lembaran pasta ditumpuk membentuk kantung-kantung kecil</p></h2>
+			<hr>
+
+			<h1><b>Fusilli</b> <img src="images/fusilli.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang memiliki bentuk seperti pembuka botol tetapi memiliki spiral lebih rapat</p></h2>
+			<hr>
+
+			<h1><b>Farfalle</b> <img src="images/farfalle.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang berbentuk dasi kupu-kupu</p></h2>
+			<hr>
+
+			<h1><b>Conchiglie</b> <img src="images/conchiglie.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang memiliki bentuk menyerupai kerang</p></h2>
+			<hr>
+
+			<h1><b>Gnocchi</b> <img src="images/gnocchi.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang berbentuk seperti pangsit</p></h2>
+			<hr>
+
+			<h1><b>Penne</b> <img src="images/penne.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Penne adalah jenis pasta berlubang, dinamai penne karena bentuknya yang mirip dengan pena</p></h2>
+			<hr>
+
+			<h1><b>Ziti</b> <img src="images/ziti.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang bentuknya mirip seperti penne tetapi memiliki potong lurus di bagian ujungnya</p></h2>
+			<hr>
+
+			<h1><b>Orecchiette</b> <img src="images/orecchiette.jpeg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Bentuk pasta yang mirip dengan telinga kecil</p></h2>
+			<hr>
+
+			<h1><b>Lasagna</b> <img src="images/lasagna.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Pasta yang berbentuk lembaran datar</p></h2>
+			<hr>
 		</div>
 
 
 		<div id="Starter" class="container menu padding-32 white">
-			<h1><b>Bruschetta</b> <img src="images/bruschetta.jpg" style="width:25%"> <span class="right tag dark-grey round">$8.50</span></h1>
-			<p class="text-grey">Bread with pesto, tomatoes, onion, garlic</p>
+			<h1><b>Bruschetta</b> <img src="images/bruschetta.jpg" style="width:25%"></h1>
+			<h2><p class="text-grey">Bread with pesto, tomatoes, onion, garlic</p></h2>
 			<hr>
 
-			<h1><b>Garlic bread</b> <img src="images/garlicbread.jpg" style="width:25%;"> <span class="right tag dark-grey round">$9.50</span></h1>
-			<p class="text-grey">Grilled ciabatta, garlic butter, onions</p>
+			<h1><b>Garlic bread</b> <img src="images/garlicbread.jpg" style="width:25%;"></h1>
+			<h2><p class="text-grey">Grilled ciabatta, garlic butter, onions</p></h2>
 			<hr>
 
-			<h1><b>Tomozzarella</b> <img src="images/mozzarella.jpg" style="width:25%"><span class="right tag dark-grey round">$10.50</span></h1>
-			<p class="text-grey">Fresh tomatoes and mozzarella with basil</p>
+			<h1><b>Tomozzarella</b> <img src="images/mozzarella.jpg" style="width:25%"></h1>
+			<h2><p class="text-grey">Fresh tomatoes and mozzarella with basil</p></h2>
 		
 		</div><br>
 	</div>
