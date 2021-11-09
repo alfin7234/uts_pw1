@@ -112,7 +112,7 @@ Nama (NRP)
 			<h1>
 				<b>2172025 - Morel Mychael Christopher Alpha</b>
 			</h1>
-			<img src="images/pizza1.jpg" style="width:50%;">
+			<img src="images/Morel.jpg" style="width:50%;">
 			<p class="text-grey">
 				<table>
 					<tr>
@@ -128,7 +128,7 @@ Nama (NRP)
 					<tr>
 						<td>Social Media </td>
 						<td> : </td>
-						<td><a href="https://www.instagram.com/alfinliunardi/" title="Alfin Liunardi" target="_blank"> @</a></td>
+						<td><a href="https://www.instagram.com/morel.mychael.c.a/" title="Morel Mychael" target="_blank"> @</a></td>
 					</tr>
 				</table>
 			</p>
