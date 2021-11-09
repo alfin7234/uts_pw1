@@ -85,7 +85,7 @@ Nama (NRP)
 			<h1>
 				<b>2172011 - William Wijaya</b>
 			</h1>
-			<img src="images/spaghetti.jpg" style="width:50%;">
+			<img src="images/foto.jpg" style="width:50%;">
 			<p class="text-grey">
 				<table>
 					<tr>
