@@ -128,7 +128,7 @@ Nama (NRP)
 					<tr>
 						<td>Social Media </td>
 						<td> : </td>
-						<td><a href="https://www.instagram.com/morel.mychael.c.a/" title="Morel Mychael" target="_blank"> @</a></td>
+						<td><a href="https://www.instagram.com/morel.mychael.c.a/" title="Morel Mychael" target="_blank"> @morel.mychael.c.a</a></td>
 					</tr>
 				</table>
 			</p>
