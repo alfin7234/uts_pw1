@@ -39,44 +39,7 @@ Nama (NRP)
 	</div>
 </header>
 
-<!-- JENIS PASTA -->
-            <article class="padding">
-                <p><b>Pasta</b> adalah makanan olahan yang digunakan pada masakan Italia, yang biasanya terbuat dari adonan tidak beragi berbahan tepung gandum durum (semolina) yang dicampur dengan air atau telur dan dibentuk menjadi lembaran-lembaran atau bentuk-bentuk yang beragam, yang kemudian dimasak dengan cara direbus atau dipanggang. Di Indonesia, jenis pasta yang populer adalah spageti, makaroni dan lasagna.</p> 
-                <br>
-                <p>Berikut beberapa jenis-jenis pasta :</p>
-                <table>
-                    <li>Spaghetti : pasta dengan helai panjang dan sangat halus</li>
-                    <img src="images/spaghetti.jpg" width="200px" height="100px">
-                    <li>Linguine : pasta yang mirip dengan spaghetti tetapi lebih lebar dibandingkan dengan potongan spaghetti</li>
-                    <img src="images/linguine.jpg" width="200px" height="150px">
-                    <li>Fettuccine : pasta yang memiliki bentuk rata seperti pita</li>
-                    <img src="images/fettuccine.jpg" width="200px" height="125px">
-                    <li>Capellini : adonannya mirip dengan spaghetti tetapi memiliki diameter lebih kecil</li>
-                    <img src="images/capellini.jpg" width="250px" height="200px">
-                    <li>Bucatini : pasta yang mirip juga dengan spaghetti tetapi memiliki lubang di tengahnya</li>
-                    <img src="images/bucatini.jpg" width="200px" height="300px">
-                    <li>Ravioli : lembaran pasta ditumpuk membentuk kantung-kantung kecil</li>
-                    <img src="images/ravioli.jpg" width="200px" height="200px">
-                    <li>Tortellini : pasta berukuran kecil dan berbentuk seperti cincin</li>
-                    <img src="images/tortellini.jpg" width="225px" height="150px">
-                    <li>Fusilli : pasta yang memiliki bentuk seperti pembuka botol tetapi memiliki spiral lebih rapat</li>
-                    <img src="images/fusilli.jpg" width="225ps" height="150px">
-                    <li>Farfalle : pasta yang berbentuk dasi kupu-kupu</li>
-                    <img src="images/farfalle.jpg" width="250px" height="200px">
-                    <li>Conchiglie : pasta yang memiliki bentuk menyerupai kerang</li>
-                    <img src="images/conchiglie.jpg" width="200px" height="175px">
-                    <li>Gnocchi : pasta yang berbentuk seperti pangsit</li>
-                    <img src="images/gnocchi.jpg" width="275px" height="225px">
-                    <li>Penne : penne adalah jenis pasta berlubang, dinamai penne karena bentuknya yang mirip dengan pena</li>
-                    <img src="images/penne.jpg" width="225px" height="175px">
-                    <li>Ziti : pasta yang bentuknya mirip seperti penne tetapi memiliki potong lurus di bagian ujungnya</li>
-                    <img src="images/ziti.jpg" width="250px" height="200px">
-                    <li>Orecchiette : bentuk pasta yang mirip dengan telinga kecil</li>
-                    <img src="images/orecchiette.jpeg" width="200px" height="200px">
-                    <li>Lasagna : pasta yang berbentuk lembaran datar</li>
-                    <img src="images/lasagna.jpg" width="250px" height="200px">
-                </table>
-			
+<!-- JENIS PASTA -->			
 <div class="container yellow grayscale-min padding-64 xlarge" id="menu">
 	<div class="content">
 		<div class="row center border border-dark-grey">
@@ -90,65 +53,61 @@ Nama (NRP)
 				<div class="col s4 tablink padding-large hover-red">Starter</div>
 			</a>
 		</div>
-
 		<div id="Pizza" class="container menu padding-32 white">
-			<h1><b>Margherita</b> <span class="right tag dark-grey round">$12.50</span></h1>
+			<h1><b>Margherita</b> <img src="images/margherita.jpg" style="width:25%;"> <span class="right tag dark-grey round">$12.50</span></h1>
 			<p class="text-grey">Fresh tomatoes, fresh mozzarella, fresh basil</p>
 			<hr>
 
-			<h1><b>Formaggio</b> <span class="right tag dark-grey round">$15.50</span></h1>
+			<h1><b>Formaggio</b> <img src="images/formaggiopizza.jpg" style="width:25%;"> <span class="right tag dark-grey round">$15.50</span></h1>
 			<p class="text-grey">Four cheeses (mozzarella, parmesan, pecorino, jarlsberg)</p>
 			<hr>
 
-			<h1><b>Chicken</b> <span class="right tag dark-grey round">$17.00</span></h1>
-			<p class="text-grey">Fresh tomatoes, mozzarella, chicken, onions</p>
+			<h1><b>Chicken</b> <img src="images/chickenpizza.jpg" style="width:25%;"> <span class="right tag dark-grey round">$17.00</span></h1>
+			<p class="text-grey">Fresh chicken, mozzarella and bbq sauce</p>
 			<hr>
 
-			<h1><b>Pineapple'o'clock</b> <span class="right tag dark-grey round">$16.50</span></h1>
-			<p class="text-grey">Fresh tomatoes, mozzarella, fresh pineapple, bacon, fresh basil</p>
+			<h1><b>Pineapple'o'clock</b> <img src="images/pineapplepizza.jpg" style="width:25%"> <span class="right tag dark-grey round">$16.50</span></h1>
+			<p class="text-grey">Chesse, hot pepperoni, tomato sauce, fresh pineapple</p>
 			<hr>
 
-			<h1><b>Meat Town</b> <span class="tag red round">Hot!</span><span class="right tag dark-grey round">$20.00</span></h1>
-			<p class="text-grey">Fresh tomatoes, mozzarella, hot pepporoni, hot sausage, beef, chicken</p>
+			<h1><b>Meat Town</b> <img src="images/pepperonipizza.jpg" style="width:25%;"> <span class="tag red round">Hot!</span><span class="right tag dark-grey round">$20.00</span></h1>
+			<p class="text-grey">Mozzarella, hot pepporoni, mushroom</p>
 			<hr>
 
-			<h1><b>Parma</b> <span class="tag grey round">New</span><span class="right tag dark-grey round">$21.50</span></h1>
-			<p class="text-grey">Fresh tomatoes, mozzarella, parma, bacon, fresh arugula</p>
+			<h1><b>Parma</b> <img src="images/parmapizza.jpg" style="width:25%;"> <span class="tag grey round">New</span><span class="right tag dark-grey round">$21.50</span></h1>
+			<p class="text-grey">Parma with ham, salmon and egg</p>
 		</div>
 
 		<div id="Pasta" class="container menu padding-32 white">
-			<h1><b>Lasagna</b> <span class="tag grey round">Popular</span> <span class="right tag dark-grey round">$13.50</span></h1>
+			<h1><b>Lasagna</b> <img src="images/lasagna.jpg" style="width:25%;"> <span class="tag grey round">Popular</span> <span class="right tag dark-grey round">$13.50</span></h1>
 			<p class="text-grey">Special sauce, mozzarella, parmesan, ground beef</p>
 			<hr>
 
-			<h1><b>Ravioli</b> <span class="right tag dark-grey round">$14.50</span></h1>
-			<p class="text-grey">Ravioli filled with cheese</p>
+			<h1><b>Ravioli</b> <img src="images/ravioli.jpg" style="width:25%;"> <span class="right tag dark-grey round">$14.50</span></h1>
+			<p class="text-grey">Ravioli filled with special sauce</p>
 			<hr>
 
-			<h1><b>Spaghetti Classica</b> <span class="right tag dark-grey round">$11.00</span></h1>
+			<h1><b>Spaghetti Classica</b> <img src="images/spaghetti.jpg" style="width:25%;"> <span class="right tag dark-grey round">$11.00</span></h1>
 			<p class="text-grey">Fresh tomatoes, onions, ground beef</p>
 			<hr>
 
-			<h1><b>Seafood pasta</b> <span class="right tag dark-grey round">$25.50</span></h1>
-			<p class="text-grey">Salmon, shrimp, lobster, garlic</p>
+			<h1><b>Seafood pasta</b> <img src="images/seafood.jpg" style="width:25%;"> <span class="right tag dark-grey round">$25.50</span></h1>
+			<p class="text-grey">Seafood spaghetti with mussels and shrimp</p>
 		</div>
 
 
 		<div id="Starter" class="container menu padding-32 white">
-			<h1><b>Today's Soup</b> <span class="tag grey round">Seasonal</span><span class="right tag dark-grey round">$5.50</span></h1>
-			<p class="text-grey">Ask the waiter</p>
-			<hr>
-
-			<h1><b>Bruschetta</b> <span class="right tag dark-grey round">$8.50</span></h1>
+			<h1><b>Bruschetta</b> <img src="images/bruschetta.jpg" style="width:25%"> <span class="right tag dark-grey round">$8.50</span></h1>
 			<p class="text-grey">Bread with pesto, tomatoes, onion, garlic</p>
 			<hr>
 
-			<h1><b>Garlic bread</b> <span class="right tag dark-grey round">$9.50</span></h1>
+			<h1><b>Garlic bread</b> <img src="images/garlicbread.jpg" style="width:25%;"> <span class="right tag dark-grey round">$9.50</span></h1>
 			<p class="text-grey">Grilled ciabatta, garlic butter, onions</p>
 			<hr>
 
-			<h1><b>Tomozzarella</b> <span class="right tag dark-grey round">$10.50</span></h1>
-			<p class="text-grey">Tomatoes and mozzarella</p>
+			<h1><b>Tomozzarella</b> <img src="images/mozzarella.jpg" style="width:25%"><span class="right tag dark-grey round">$10.50</span></h1>
+			<p class="text-grey">Fresh tomatoes and mozzarella with basil</p>
+		
 		</div><br>
 	</div>
 </div>
@@ -160,7 +119,9 @@ Nama (NRP)
     <p>Sumber data yang kami dapatkan : </p>
     <p>1. https://www.kompas.com/food/read/2020/10/14/190700375/15-jenis-pasta-yang-sering-dijumpai-di-indonesia?page=all</p>
     <p>2. https://www.unileverfoodsolutions.co.id/id/inspirasi-chef/knorr-world-cuisines/kenali-bentuk-pasta-anda-plus-beberapa-resep-pasta-untuk-dicoba.html</p>
-    <p></p>
+    <p>3. https://www.thespruceeats.com/pasta-with-seafood-mushroom-cream-sauce-3060673</p>
+	<p>4. https://thebusybaker.ca/easy-homemade-garlic-bread/</p>
+	<p>5. https://eatigo.com/id/jakarta/id/r/formaggio-coffee-resto-tangerang-5005054</p>
   </div>
 </div>
 
