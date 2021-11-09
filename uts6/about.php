@@ -4,7 +4,7 @@
 Nama (NRP)
 - Alfin Liunardi Senjaya (1672034)
 - William Wijaya (2172011)
-- 
+- Morel Mychael Christopher Alpha (2172025)
 
 -->
 <html>
@@ -83,25 +83,25 @@ Nama (NRP)
 
 		<div id="NRP1" class="container menu padding-32 white">
 			<h1>
-				<b>1672034 - Alfin Liunardi Senjaya</b>
+				<b>2172011 - William Wijaya</b>
 			</h1>
-			<img src="images/pizza1.jpg" style="width:50%;">
+			<img src="images/spaghetti.jpg" style="width:50%;">
 			<p class="text-grey">
 				<table>
 					<tr>
 						<td>Nama </td>
 						<td> : </td>
-						<td> Alfin Liunardi Senjaya</td>
+						<td>William Wijaya</td>
 					</tr>
 					<tr>
 						<td>NRP </td>
 						<td> : </td>
-						<td>1672034</td>
+						<td>2172011</td>
 					</tr>
 					<tr>
 						<td>Social Media </td>
 						<td> : </td>
-						<td><a href="https://www.instagram.com/alfinliunardi/" title="Alfin Liunardi" target="_blank"> @alfinliunardi</a></td>
+						<td><a href="https://www.instagram.com/william.wijaya.54/" title="William Wijaya" target="_blank"> @william.wijaya.54</a></td>
 					</tr>
 				</table>
 			</p>
@@ -110,7 +110,7 @@ Nama (NRP)
 
 		<div id="NRP2" class="container menu padding-32 white">
 			<h1>
-				<b>1672034 - Alfin Liunardi Senjaya</b>
+				<b>2172025 - Morel Mychael Christopher Alpha</b>
 			</h1>
 			<img src="images/pizza1.jpg" style="width:50%;">
 			<p class="text-grey">
@@ -118,17 +118,17 @@ Nama (NRP)
 					<tr>
 						<td>Nama </td>
 						<td> : </td>
-						<td> Alfin Liunardi Senjaya</td>
+						<td> Morel Mychael Christopher Alpha </td>
 					</tr>
 					<tr>
 						<td>NRP </td>
 						<td> : </td>
-						<td>1672034</td>
+						<td>2172025</td>
 					</tr>
 					<tr>
 						<td>Social Media </td>
 						<td> : </td>
-						<td><a href="https://www.instagram.com/alfinliunardi/" title="Alfin Liunardi" target="_blank"> @alfinliunardi</a></td>
+						<td><a href="https://www.instagram.com/alfinliunardi/" title="Alfin Liunardi" target="_blank"> @</a></td>
 					</tr>
 				</table>
 			</p>
