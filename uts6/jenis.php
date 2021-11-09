@@ -40,10 +40,6 @@ Nama (NRP)
 </header>
 
 <!-- JENIS PASTA -->
-            <div class="img1">
-            <div class="text">
-            </div>
-        </div>
             <article class="padding">
                 <p><b>Pasta</b> adalah makanan olahan yang digunakan pada masakan Italia, yang biasanya terbuat dari adonan tidak beragi berbahan tepung gandum durum (semolina) yang dicampur dengan air atau telur dan dibentuk menjadi lembaran-lembaran atau bentuk-bentuk yang beragam, yang kemudian dimasak dengan cara direbus atau dipanggang. Di Indonesia, jenis pasta yang populer adalah spageti, makaroni dan lasagna.</p> 
                 <br>
