@@ -118,17 +118,17 @@ Nama (NRP)
 					<tr>
 						<td>Nama </td>
 						<td> : </td>
-						<td> Alfin Liunardi Senjaya</td>
+						<td> Morel Mychael Christopher Alpha</td>
 					</tr>
 					<tr>
 						<td>NRP </td>
 						<td> : </td>
-						<td>1672034</td>
+						<td>2172025</td>
 					</tr>
 					<tr>
 						<td>Social Media </td>
 						<td> : </td>
-						<td><a href="https://www.instagram.com/alfinliunardi/" title="Alfin Liunardi" target="_blank"> @alfinliunardi</a></td>
+						<td><a href="https://www.instagram.com/morel.mychael.c.a/" title="SosmedMorel" target="_blank"> @alfinliunardi</a></td>
 					</tr>
 				</table>
 			</p>
