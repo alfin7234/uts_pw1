@@ -96,9 +96,9 @@ Nama (NRP)
   <div class="content">
     <h1 class="center xlarge" style="margin-bottom:64px">Credits</h1>
     <p>Sumber data yang kami dapatkan : </p>
-    <p>1. https://www.kompas.com/food/read/2020/10/14/190700375/15-jenis-pasta-yang-sering-dijumpai-di-indonesia?page=all</p>
-    <p>2. https://www.unileverfoodsolutions.co.id/id/inspirasi-chef/knorr-world-cuisines/kenali-bentuk-pasta-anda-plus-beberapa-resep-pasta-untuk-dicoba.html</p>
-    <p>3. *Link*</p>
+    <p>1. </p>
+    <p>2. </p>
+    <p>3. </p>
   </div>
 </div>
 
