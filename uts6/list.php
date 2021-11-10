@@ -232,7 +232,7 @@ Nama (NRP)
 
 <!-- Footer -->
 <footer class="center black padding-48 large">
-	<p>Made By 1672034 | *NRP* | *NRP*</p>
+	<p>Made By 1672034 | 2172011 | 2172034</p>
 	<p class="tiny">Insipired By Some Web On The Internet and My Web "Kerja Praktek"</p>
 </footer>
 
