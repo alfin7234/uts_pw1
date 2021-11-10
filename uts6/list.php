@@ -118,14 +118,7 @@ Nama (NRP)
 </div>
 
 <!-- About Container -->
-<div class="container padding-64 red grayscale xlarge" id="about">
-  <div class="content">
-    <h1 class="center jumbo" style="margin-bottom:64px">About</h1>
-    <p>The Pizza Restaurant was founded in blabla by Mr. Italiano in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <p><strong>The Chef?</strong> Mr. Italiano himself<img src="/w3images/chef.jpg" style="width:150px" class="circle right" alt="Chef"></p>
-    <p>We are proud of our interiors.</p>
-    <img src="/w3images/onepage_restaurant.jpg" style="width:100%" class="margin-top margin-bottom" alt="Restaurant">
-    <h1><b>Opening Hours</b></h1>
+
     
 <table>
   <caption><h1>Indonesia</h1></caption>
