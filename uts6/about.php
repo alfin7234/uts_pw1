@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 
 <!--
-Nama (NRP)
-- Alfin Liunardi Senjaya (1672034)
-- William Wijaya (2172011)
-- Morel Mychael Christopher Alpha (2172025)
-
+Nama (NRP) 
+    * - William Wijaya (2172011) 
+    * - Alfin Liunardi Senjaya (1672034)
+    * - Morel Mychael Christopher Alpha (2172025)
+	*
 -->
 <html>
 
@@ -46,11 +46,11 @@ Nama (NRP)
 			<a href="javascript:void(0)" onclick="openMenu(event, '1672034');" id="myLink">
 				<div class="col s4 tablink padding-large hover-black">1672034</div>
 			</a>
-			<a href="javascript:void(0)" onclick="openMenu(event, 'NRP1');">
-				<div class="col s4 tablink padding-large hover-black">*NRP*</div>
+			<a href="javascript:void(0)" onclick="openMenu(event, '2172011');">
+				<div class="col s4 tablink padding-large hover-black">2172011</div>
 			</a>
-			<a href="javascript:void(0)" onclick="openMenu(event, 'NRP2');">
-				<div class="col s4 tablink padding-large hover-black">*NRP*</div>
+			<a href="javascript:void(0)" onclick="openMenu(event, '2172025');">
+				<div class="col s4 tablink padding-large hover-black">2172025</div>
 			</a>
 		</div>
 
@@ -58,8 +58,8 @@ Nama (NRP)
 			<h1>
 				<b>1672034 - Alfin Liunardi Senjaya</b>
 			</h1>
-			<img src="images/pizza1.jpg" style="width:50%;">
-			<p class="text-grey">
+			<img src="images/alfin.jpg" style="width:50%;">
+			<p>
 				<table>
 					<tr>
 						<td>Nama </td>
@@ -81,7 +81,7 @@ Nama (NRP)
 			<hr>
 		</div>
 
-		<div id="NRP1" class="container menu padding-32 white">
+		<div id="2172011" class="container menu padding-32 white">
 			<h1>
 				<b>2172011 - William Wijaya</b>
 			</h1>
@@ -108,7 +108,7 @@ Nama (NRP)
 			<hr>
 		</div>
 
-		<div id="NRP2" class="container menu padding-32 white">
+		<div id="2172025" class="container menu padding-32 white">
 			<h1>
 				<b>2172025 - Morel Mychael Christopher Alpha</b>
 			</h1>
@@ -153,10 +153,10 @@ function openMenu(evt, menuName) {
   }
   tablinks = document.getElementsByClassName("tablink");
   for (i = 0; i < x.length; i++) {
-     tablinks[i].className = tablinks[i].className.replace(" red", "");
+     tablinks[i].className = tablinks[i].className.replace(" purple", "");
   }
   document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " red";
+  evt.currentTarget.firstElementChild.className += " purple";
 }
 document.getElementById("myLink").click();
 </script>

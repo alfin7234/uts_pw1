@@ -62,7 +62,7 @@ Nama (NRP)
 			Pasta (US: /ˈpɑːstə/, UK: /ˈpæstə/; Italian pronunciation: [ˈpasta]) adalah makanan olahan yang digunakan pada masakan Italia, yang biasanya terbuat dari adonan tidak beragi berbahan tepung gandum durum (semolina) yang dicampur dengan air atau telur dan dibentuk menjadi lembaran-lembaran atau bentuk-bentuk yang beragam, yang kemudian dimasak dengan cara direbus atau dipanggang. Di Indonesia, jenis pasta yang populer adalah spageti, makaroni dan lasagna. Namun, sebenarnya ada banyak lagi jenis pasta lainnya, seperti vermiseli, fetucini, fusilli, penne, ravioli dan sebagainya.<hr>
 		</p>	
 		
-		<img src="images/pasta1.jpg" style="width:100%"><hr>
+		<img src="images/pasta2.jpg" style="width:100%"><hr>
 		
 		<p class="row justify">
 			Dalam bahasa Inggris, pasta adalah sebutan untuk berbagai jenis masakan dengan bahan utama salah satu jenis pasta yang diberi bumbu dan saus. Pasta berasal dari bahasa Italia "pasta alimentare" yang berarti adonan bahan makanan. Dalam arti luas, "pasta" bisa berarti semua adonan seperti adonan roti, pastri atau bolu. Dalam bahasa Italia, pasta yang berarti bahan makanan seperti mi disebut pastasciutta.<hr>
@@ -71,7 +71,7 @@ Nama (NRP)
 			Pasta dibuat dari tepung terigu semolina yang merupakan hasil gilingan biji gandum durum dicampur telur sehingga sedikit berwarna kuning cerah, dan bila dimasak dengan benar akan menghasilkan tekstur sedikit kenyal. Pasta buatan Amerika sering dibuat dari campuran tepung terigu Farina dan Semolina, sehingga mempunyai tekstur yang lebih lembut untuk dijadikan hidangan seperti kaserol.<hr>
 		</p>
 		
-		<img src="images/pasta1.jpg" style="width:100%; center"><hr>
+		<img src="images/pasta4.jpg" style="width:100%; center"><hr>
 		
 		<p class="row justify">
 			Di luar negara asalnya di Italia, pasta biasanya dijual di dalam kemasan dalam bentuk kering. Pasta kering dibuat di pabrik dengan menggunakan mesin ekstrusi yang mendorong keluar adonan pasta melalui lubang-lubang saringan. Bentuk-bentuk pasta yang lain diperoleh dengan menggiling adonan pasta menjadi lembaran yang kemudian dipotong-potong atau dicetak.<hr>
@@ -86,7 +86,7 @@ Nama (NRP)
 		<h1>
 			<b>History</b>
 		</h1>
-		<img src="images/pasta3.jpg" style="width:100%;">
+		<img src="images/pasta2.jpg" style="width:100%;">
 		<p class="row justify">
 			Makanan mirip pasta banyak dijumpai di berbagai tempat di dunia sejak zaman dulu, terutama di wilayah dengan penduduk yang menjadikan gandum dan serealia sebagai makanan utama. Gandum yang sudah digiling sering dimasak sebagai bubur atau dihaluskan menjadi tepung dan dibuat roti. Pasta kemungkinan besar merupakan alternatif dari bubur atau roti, karena pasta merupakan makanan awetan yang dibuat tanpa perlu dimasak.<hr>
 		</p>
@@ -153,15 +153,13 @@ Nama (NRP)
 
 <!-- Credits & References -->
 <div class="container padding-64 blue-grey grayscale-min xlarge">
-  <div class="content">
-    <h1 class="center xlarge" style="margin-bottom:64px">Credits & References</h1>
-    <p>Sumber data yang kami dapatkan : </p>
-	<p>1. (Inggris) <a href="https://www.instagram.com/alfinliunardi/" title="Alfin Liunardi" target="_blank">www.food-info.net:: Pasta shape</a> Pasta dalam berbagai bentuk</p>
-	<p>2. (Inggris) www.lifeinitaly.com:: History of Pasta Diarsipkan 2008-07-23 di Wayback Machine. Sejarah pasta</p>
-	<p>3. (Inggris) www.annamariavolpi.com How to cook dry pasta Cara merebus pasta</p>
-	<p>4. (Inggris) www.cookandsave.com:: Homemade pasta Cara membuat pasta segar di rumah</p>
-	<p>5. (Inggris) isabelmarants-neakers.us:: The Right Way to Cook Pasta Diarsipkan 2018-02-10 di Wayback Machine. Cara benar membuat pasta</p>
-  </div>
+	<div class="content">
+		<h1 class="center xlarge" style="margin-bottom:64px">Credits & References</h1>
+		<p>Sumber data yang kami dapatkan : </p>
+		<p>1. (Inggris) <a href="http://www.food-info.net/uk/products/pasta/shapes.htm" target="_blank">www.food-info.net:: Pasta shape</a> Pasta dalam berbagai bentuk</p>
+		<p>2. (Inggris) <a href="https://lifeinitaly.com/history-of-pasta/" target="_blank">www.lifeinitaly.com:: History of Pasta </a>2008-07-23 di Wayback Machine. Sejarah pasta</p>
+		<p>3. (Inggris) <a href="http://www.annamariavolpi.com/public_html/how_to_cook_pasta.html#.YYrJ2WBByMo" target="_blank">www.annamariavolpi.com How to cook dry pasta </a> Cara merebus pasta</p>
+	</div>
 </div>
 
 <!-- Footer -->
