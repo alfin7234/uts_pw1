@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 
 <!--
-Nama (NRP)
-- Alfin Liunardi Senjaya (1672034)
-- William Wijaya (2172011)
-- Morel Mychael Christopher Alpha (2172025)
-
+Nama (NRP) 
+    * - William Wijaya (2172011) 
+    * - Alfin Liunardi Senjaya (1672034)
+    * - Morel Mychael Christopher Alpha (2172025)
+	*
 -->
 <html>
 
@@ -32,14 +32,14 @@ Nama (NRP)
   
 <!-- Header with image -->
 <header class="bgimg display-container grayscale-min" id="home">
-	<img src="images/pizza1.jpg" style="width:100%;" id="myMap">
+	<img src="images/pasta2.jpg" style="width:100%;" id="myMap">
 	<div class="display-middle center">
 		<span>JENIS - JENIS PASTA & PIZZA</span>
-		<p><a href="#menu" class="button xlarge black" style="font-size:25px"">Learn More !</a></p>
+		<p><a href="#menu" class="button xlarge black" style="font-size:25px">Learn More !</a></p>
 	</div>
 </header>
 
-<!-- JENIS PASTA -->			
+<!-- JENIS PASTA -->
 <div class="container yellow grayscale-min padding-64 xlarge" id="menu">
 	<div class="content">
 		<div class="row center border border-dark-grey">
@@ -49,10 +49,11 @@ Nama (NRP)
 			<a href="javascript:void(0)" onclick="openMenu(event, 'Pasta');">
 				<div class="col s4 tablink padding-large hover-red">Pasta</div>
 			</a>
-			<a href="javascript:void(0)" onclick="openMenu(event, 'Starter');">
+			<a href="javascript:void(0)" onclick="openMenu(event, 'Dessert');">
 				<div class="col s4 tablink padding-large hover-red">Dessert</div>
 			</a>
 		</div>
+
 		<div id="Pizza" class="container menu padding-32 white">
 			<h1><b>Margherita</b> <img src="images/margherita.jpg" style="width:25%;"></h1>
 			<h2><p class="text-grey">Fresh tomatoes, fresh mozzarella, fresh basil</p><h2>
@@ -141,7 +142,7 @@ Nama (NRP)
 		</div>
 
 
-		<div id="Starter" class="container menu padding-32 white">
+		<div id="Dessert" class="container menu padding-32 white">
 			<h1><b>Bruschetta</b> <img src="images/bruschetta.jpg" style="width:25%"></h1>
 			<h2><p class="text-grey">Bread with pesto, tomatoes, onion, garlic</p></h2>
 			<hr>
@@ -162,17 +163,15 @@ Nama (NRP)
   <div class="content">
     <h1 class="center xlarge" style="margin-bottom:64px">Credits</h1>
     <p>Sumber data yang kami dapatkan : </p>
-    <p>1. https://www.kompas.com/food/read/2020/10/14/190700375/15-jenis-pasta-yang-sering-dijumpai-di-indonesia?page=all</p>
-    <p>2. https://www.unileverfoodsolutions.co.id/id/inspirasi-chef/knorr-world-cuisines/kenali-bentuk-pasta-anda-plus-beberapa-resep-pasta-untuk-dicoba.html</p>
-    <p>3. https://www.thespruceeats.com/pasta-with-seafood-mushroom-cream-sauce-3060673</p>
-	<p>4. https://thebusybaker.ca/easy-homemade-garlic-bread/</p>
-	<p>5. https://eatigo.com/id/jakarta/id/r/formaggio-coffee-resto-tangerang-5005054</p>
+    <p>1. *Link*</p>
+    <p>2. *Link*</p>
+    <p>3. *Link*</p>
   </div>
 </div>
 
 <!-- Footer -->
 <footer class="center black padding-48 large">
-  <p>Made By 1672034 | 2172011 | 2172034</p>
+  <p>Made By 1672034 | *NRP* | *NRP*</p>
   <p class="tiny">Insipired By Some Web Template From W3 School</p>
 </footer>
 
@@ -187,10 +186,10 @@ function openMenu(evt, menuName) {
   }
   tablinks = document.getElementsByClassName("tablink");
   for (i = 0; i < x.length; i++) {
-     tablinks[i].className = tablinks[i].className.replace(" red", "");
+     tablinks[i].className = tablinks[i].className.replace(" black", "");
   }
   document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " red";
+  evt.currentTarget.firstElementChild.className += " black";
 }
 document.getElementById("myLink").click();
 </script>
