@@ -42,7 +42,7 @@ Nama (NRP)
 <!-- About Container -->
 
     
-<table>
+<table id="menu">
   <caption><h1>Indonesia</h1></caption>
   <tr>
     <td>
