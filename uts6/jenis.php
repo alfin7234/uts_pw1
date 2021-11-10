@@ -160,36 +160,38 @@ Nama (NRP)
   
 <!-- Contact -->
 <div class="container padding-64 blue-grey grayscale-min xlarge">
-  <div class="content">
-    <h1 class="center xlarge" style="margin-bottom:64px">Credits</h1>
-    <p>Sumber data yang kami dapatkan : </p>
-    <p>1. *Link*</p>
-    <p>2. *Link*</p>
-    <p>3. *Link*</p>
-  </div>
+	<div class="content">
+		<h1 class="center xlarge" style="margin-bottom:64px">Credits</h1>
+		<p>Sumber data yang kami dapatkan : </p>
+		<p>1. https://www.kompas.com/food/read/2020/10/14/190700375/15-jenis-pasta-yang-sering-dijumpai-di-indonesia?page=all</p>
+		<p>2. https://www.unileverfoodsolutions.co.id/id/inspirasi-chef/knorr-world-cuisines/kenali-bentuk-pasta-anda-plus-beberapa-resep-pasta-untuk-dicoba.html</p>
+		<p>3. https://www.thespruceeats.com/pasta-with-seafood-mushroom-cream-sauce-3060673</p>
+		<p>4. https://thebusybaker.ca/easy-homemade-garlic-bread/</p>
+		<p>5. https://eatigo.com/id/jakarta/id/r/formaggio-coffee-resto-tangerang-5005054</p>
+	</div>
 </div>
 
 <!-- Footer -->
 <footer class="center black padding-48 large">
-  <p>Made By 1672034 | *NRP* | *NRP*</p>
-  <p class="tiny">Insipired By Some Web Template From W3 School</p>
+	<p>Made By 1672034 | *NRP* | *NRP*</p>
+	<p class="tiny">Insipired By Some Web On The Internet and My Web "Kerja Praktek"</p>
 </footer>
 
 <script>
 
 // Tabbed Menu
-function openMenu(evt, menuName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("menu");
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < x.length; i++) {
-     tablinks[i].className = tablinks[i].className.replace(" black", "");
-  }
-  document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " black";
+	function openMenu(evt, menuName) {
+	var i, x, tablinks;
+	x = document.getElementsByClassName("menu");
+	for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+	}
+	tablinks = document.getElementsByClassName("tablink");
+	for (i = 0; i < x.length; i++) {
+		tablinks[i].className = tablinks[i].className.replace(" black", "");
+	}
+	document.getElementById(menuName).style.display = "block";
+	evt.currentTarget.firstElementChild.className += " black";
 }
 document.getElementById("myLink").click();
 </script>

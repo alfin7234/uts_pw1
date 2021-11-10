@@ -139,24 +139,24 @@ Nama (NRP)
 
 <!-- Footer -->
 <footer class="center black padding-48 large">
-  <p>Made By 1672034 | *NRP* | *NRP*</p>
-  <p class="tiny">Insipired By Some Web Template From W3 School</p>
+	<p>Made By 1672034 | *NRP* | *NRP*</p>
+	<p class="tiny">Insipired By Some Web On The Internet and My Web "Kerja Praktek"</p>
 </footer>
 
 <script>
 // Tabbed Menu
 function openMenu(evt, menuName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("menu");
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < x.length; i++) {
-     tablinks[i].className = tablinks[i].className.replace(" purple", "");
-  }
-  document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " purple";
+	var i, x, tablinks;
+	x = document.getElementsByClassName("menu");
+	for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+	}
+	tablinks = document.getElementsByClassName("tablink");
+	for (i = 0; i < x.length; i++) {
+		tablinks[i].className = tablinks[i].className.replace(" purple", "");
+	}
+	document.getElementById(menuName).style.display = "block";
+	evt.currentTarget.firstElementChild.className += " purple";
 }
 document.getElementById("myLink").click();
 </script>
